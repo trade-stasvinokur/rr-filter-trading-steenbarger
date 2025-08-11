@@ -13,10 +13,9 @@
 
 ## 🚀 Установка
 ```bash
-pip install pandas
 # Клонируем репозиторий
 git clone https://github.com/trade-stasvinokur/rr-filter-trading-steenbarger.git
-cd rr-filter-trading-steenbarger
+cd rr-filter-trading-steenbarger/src
 uv sync
 ```
 
